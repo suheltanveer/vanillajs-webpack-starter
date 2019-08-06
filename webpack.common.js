@@ -28,6 +28,10 @@ module.exports = {
   module: {
     rules: [
       {
+        test: /\.html$/,
+        use: ["html-loader"]
+      },
+      {
         test: /\.js$/,
         enforce: "pre",
         exclude: /node_modules/,
