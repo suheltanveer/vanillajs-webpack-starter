@@ -1,0 +1,14 @@
+@import "default";
+
+.hello {
+  color: rebeccapurple;
+  background-color: yellowgreen;
+  background-image: url("../icon/LOCATION.png");
+  background-repeat: no-repeat;
+  padding: 10px 10px 10px 30px;
+  font-family: "Montserrat-Black";
+
+  button {
+    font-weight: bold;
+  }
+}
