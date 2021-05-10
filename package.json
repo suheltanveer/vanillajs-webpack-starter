@@ -36,7 +36,7 @@
     "webpack-merge": "^4.2.1"
   },
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "sanitize.css": "^11.0.0"
   }
 }
